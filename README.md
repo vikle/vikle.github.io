@@ -21,3 +21,11 @@ Unity, C#, C++, JavaScript, Python, Bash, SOLID, OOP, Object-Oriented Programmin
 
 ### Tools:
 Rider, VS Code, Cursor, Shader Graph, Amplify Shader Editor, Frame Debugger, Profiler, Input System, Rewired, Bakery, TeamCity, Jenkins, GitHub, GitLab, SVN, Terminal, Docker, Docker Compose, Docker MCP Toolkit, LLM, ChatGPT, Grok, Claude, LM Studio, Ollama, MCP Servers, Continue, Jira, Confluence, YouTrack.
+
+---
+- **English proficiency:** Intermediate (B1).
+- **Relocation readiness:** Confirmed.
+
+---
+Contact: victor.klepikoff@gmail.com
+---
