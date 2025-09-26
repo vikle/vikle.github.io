@@ -1,19 +1,19 @@
-Results-driven Unity developer with **7+** years of experience **from indie to AAA**, specializing in graphics, low-level optimization, and scalable system architecture. Architected and delivered cross-platform performance gains of **11-32%** through systemic graphics and memory optimization. Redesigned shader architecture, slashing variants from **16,700** to **~18** and cutting load times by **14%**. Built foundational toolsets for shader conversion and auditing, boosting long-term team efficiency by **50%**. Mentored developers, improved documentation, and reduced task completion and onboarding times by up to **40%**.
+Results-driven **Technical Architect** with **7+ years** of experience from indie to AAA, specializing in **driving business outcomes** through rendering, graphics, low-level optimization, and scalable system architecture. **Delivered measurable impact to the bottom line** by achieving cross-platform performance gains of **~32%**, directly expanding addressable market on mobile and lower-end devices. **Reduced project costs and accelerated content pipelines** by redesigning shader architecture (cutting variants from 16,700 to ~18) and slashing load times by **14%**. **Built long-term team efficiency** with foundational toolsets that boosted productivity by 50% and reduced onboarding times by **40%**.
 
 ---
 ### Key Highlights:
-- **Architected** cross-platform performance gains of **~32%**
-- **Redesigned shader architecture**, reducing variants from **16,700** to **~18** 
-- **Built foundational toolsets** for shaders and resource auditing
-- **Mentored** devs, produced documentation, reducing onboarding time by **~30%**
-- **Domain Experience:** Unity, graphics, cross-platform, optimization, mentoring
+- **32% performance gains**, expanding target device coverage.
+- **Cut shader variants by 99.9%**, slashing build times.
+- **Tools that automate** shader/authoring, boosting team velocity.
+- **30% faster onboarding** via mentorship and clear documentation.
+- Domain Experience: Graphics Architecture, Cross-Platform Optimization, Mentorship.
 
 ### What I Bring:
-- Proven AAA studio experience, **delivering sustainable results under tight deadlines**
-- **Scalable technical foundations** that empower artists' creative vision
-- **Deep optimization expertise** at the hardware level for graphics, memory, and algorithms
-- **Internal tools** that automate routine and increase team velocity
-- **Mentorship and knowledge sharing** that elevates overall team competency
+- **Proven AAA studio experience**, to ship high-quality results on deadline.
+- **Scalable tech** that unlocks, not limits, artistic creativity.
+- **Hardware-level optimization** for graphics, memory, and CPU.
+- **Tools that automate** workflows, directly increasing team output.
+- **Mentorship** that elevates entire team's skill level.
 
 ---
 ### Skills:
