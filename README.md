@@ -16,17 +16,6 @@ Results-driven **Technical Architect** with **7+ years** of experience from indi
 - **Mentorship** that elevates entire team's skill level.
 
 ---
-### Skills:
-Unity, C#, C++, JavaScript, Python, Bash, SOLID, OOP, Object-Oriented Programming, ECS, Entity Component System, DOD, Data-Oriented Design, Code Analysis, Data Profiling, SRP, URP, CG, HLSL, GLSL, ShaderLab, OpenGL ES, Metal, DirectX, Render Pipeline, Render Graph,  Multithreading, Networking, UI Canvas, Steamworks, WebGL, Android, iOS, PC, Xbox, PS, Nintendo Switch, SVN, Git, GitHub, GitLab, GitFlow, CI/CD, DevOps, Mentorship.
-
-### Tools:
-Rider, VS Code, Continue, Cursor, Shader Graph, Amplify Shader Editor, Frame Debugger, Profiler, Input System, Rewired, Bakery, TeamCity, Jenkins, GitHub, GitLab, SVN, Terminal, Jira, Confluence, YouTrack.
-
----
-- **English proficiency:** Intermediate (B1).
-- **Relocation readiness:** Confirmed.
-
----
 ### YouTube:
 - [My Unity Render Pipeline — Bringing Art to Life](https://youtu.be/c4dF6c8ewfg)
 - [My Unity Render Pipeline — Inside the Features](https://youtu.be/wcLxjOPPeC8)
